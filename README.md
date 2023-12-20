@@ -5,4 +5,4 @@
   <li>You will over thinking to decide do it how can do it</li>
   <li>You will orientation before you can do it equal code</li>
 </ol>
-<h3>Thanks you read</h3>
+<h3>Thanks you readed</h3>
